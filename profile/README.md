@@ -24,7 +24,7 @@ We believe in the transformative power of technology and invite you to join us i
   <img src="https://tools.applemediaservices.com/api/badges/download-on-apple-tv/black/en-us?size=100x33.2&amp;releaseDate=1621123200" alt="Download on Apple TV" style="border-radius: 13px; width: 100px; height: 33.2px;">
 </a>
 
-### Loccali: for Shortcuts ![iTunes App Store](https://img.shields.io/itunes/v/6449942222?label=Loccali)
+### Loccali: for Shortcuts ![iTunes App Store](https://img.shields.io/itunes/v/6449942222?label=Loccali:%20for%20Shortcuts)
 
 <a href="https://apps.apple.com/us/app/loccali/id6449942222?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 100px; height: 33.2px;">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=100x33.2&amp;releaseDate=1687392000" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px;">
