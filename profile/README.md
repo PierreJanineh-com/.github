@@ -3,7 +3,7 @@
 Welcome to the GitHub organization for **PierreJanineh.com**, where innovation meets technology to create impactful digital solutions.
 
 ### 🙋‍♀️ About Us
-PierreJanineh.com focuses on harnessing the power of technology to solve real-world problems. We specialize in mobile app development, web solutions, and emerging technologies like AI and IoT. Our mission is to deliver user-centric, scalable, and robust digital products.
+_[PierreJanineh.com](https://pierrejanineh.com)_ focuses on harnessing the power of technology to solve real-world problems. We specialize in mobile app development, web solutions, and emerging technologies like AI and IoT. Our mission is to deliver user-centric, scalable, and robust digital products.
 
 ### 🌈 How to Contribute
 We believe in the power of community and open-source collaboration. Here's how you can be a part of our journey:
@@ -16,6 +16,10 @@ We believe in the power of community and open-source collaboration. Here's how y
 
 ### 🧙 Join Us in Making a Difference
 We believe in the transformative power of technology and invite you to join us in this exciting journey. Let's build something amazing together!
+
+## Blogs:
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pierrejanineh)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/programming-with-pierre)
 
 ## Released apps
 ### Miflas
