@@ -1,66 +1,68 @@
-# Welcome to PierreJanineh.com 👋
+<samp>
+  <h1 align="center">PierreJanineh.com</h1>
+  <p align="center">
+    Open-source packages and apps by <a href="https://github.com/PierreJanineh">@PierreJanineh</a>
+  </p>
+</samp>
 
-Welcome to the GitHub organization for **PierreJanineh.com**, where innovation meets technology to create impactful digital solutions.
+<h3 align="center">Packages</h3>
 
-### 🙋‍♀️ About Us
-_[PierreJanineh.com](https://pierrejanineh.com)_ focuses on harnessing the power of technology to solve real-world problems. We specialize in mobile app development, web solutions, and emerging technologies like AI and IoT. Our mission is to deliver user-centric, scalable, and robust digital products.
+<p align="center">
+  <a href="https://github.com/PierreJanineh-com/ProgressUI"><strong>ProgressUI</strong></a> · Animated progress indicators for SwiftUI &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ProgressUI?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/InfinityScrollKit"><strong>InfinityScrollKit</strong></a> · Infinite scroll for SwiftUI, UIKit & AppKit &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/InfinityScrollKit?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/ClukUI"><strong>ClukUI</strong></a> · Clock visualizations for SwiftUI &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ClukUI?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/expo-quicklook-preview"><strong>expo-quicklook-preview</strong></a> · Expo module wrapping iOS QLPreviewController &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/expo-quicklook-preview?style=social" alt="Stars" />
+</p>
 
-### 🌈 How to Contribute
-We believe in the power of community and open-source collaboration. Here's how you can be a part of our journey:
-- **Contribute to Our Projects**: Check out our repositories and feel free to fork, star, and contribute. We appreciate pull requests, bug reports, and feature suggestions.
-- **Join the Discussion**: Engage with us via GitHub Discussions or Issues. Share your ideas, ask questions, or provide feedback.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PierreJanineh/TechDebtMCP">
+        <img src="https://img.shields.io/badge/MCP_Server-TechDebtMCP-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDIwaDlNMTYuNSAzLjVhMi4xMiAyLjEyIDAgMCAxIDMgM0w3IDE5bC00IDEgMS00WiIvPjwvc3ZnPg==" alt="TechDebtMCP" />
+      </a>
+      <br />
+      <sub>Analyze & track technical debt via Model Context Protocol</sub>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/PierreJanineh/TechDebtMCP?style=social" alt="Stars" />
+    </td>
+  </tr>
+</table>
 
-<!-- ### 👩‍💻 Resources and Documentation
-- **Documentation**: Find detailed documentation for our projects in their respective repositories or on our [official documentation site](https://pierrejanineh.com/docs).
-- **Getting Started Guides**: New to our projects? Check out our 'Getting Started' guides in each repository. -->
+<br />
 
-### 🧙 Join Us in Making a Difference
-We believe in the transformative power of technology and invite you to join us in this exciting journey. Let's build something amazing together!
+<h3 align="center">Apps</h3>
 
-## Blogs:
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pierrejanineh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/programming-with-pierre)
+<p align="center">
+  <a href="https://apps.apple.com/us/app/miflas/id6504677390">
+    <img src="assets/miflas.png" width="56" alt="Miflas" title="Miflas" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222">
+    <img src="assets/loccali.png" width="56" alt="Loccali" title="Loccali" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/storage-analysis/id1567754378">
+    <img src="assets/storage-analysis.png" height="56" alt="Storage Analysis" title="Storage Analysis" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547">
+    <img src="assets/nikud-keyboard.png" width="56" alt="Nikud Keyboard" title="Nikud Keyboard" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/queerabic-%D9%85%D9%8A%D9%85-lgbt-stickers/id1572342622">
+    <img src="assets/queerabic.png" width="56" alt="Queerabic" title="Queerabic" />
+  </a>
+</p>
 
-## Released apps
-### Miflas
+<br />
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/12/02/d9120211-c404-2b5b-a9d5-728d7f228e70/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Miflas" style="width: 50px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/6504677390?label=Miflas)
-
-<a href="https://apps.apple.com/us/app/miflas/id6504677390?itscg=30200&itsct=apps_box_badge&mttnsubad=6504677390" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1719100800" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Storage Analysis
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/1d/5a/081d5a05-de2c-76af-7db5-b0c0f81f4a67/App_Icon-marketing.lsr/540x540bb.jpg" alt="Storage Analysis" style="width: 50px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1567754378?label=Storage%20Analysis)
-
-<a href="https://apps.apple.com/us/app/storage-analysis/id1567754378?itscg=30200&itsct=apps_box_badge&mttnsubad=1567754378" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1621123200" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Loccali: for Shortcuts
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/6e/02746e6f-acfa-4625-f2c9-d3a2c7e938a1/AppIcon-0-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Loccali: for Shortcuts" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/6449942222?label=Loccali:%20for%20Shortcuts)
-
-<a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222?itscg=30200&itsct=apps_box_badge&mttnsubad=6449942222" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1687392000" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Nikud Keyboard - מקלדת ניקוד
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/51/4f/de514f45-8d14-d252-829c-6ab163defaa1/AppIcon-0-0-1x_U007epad-0-85-220.png/540x540bb.jpg" alt="Nikud Keyboard" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1570902547?label=Nikud%20Keyboard)
-
-<a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547?itscg=30200&itsct=apps_box_badge&mttnsubad=1570902547" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1622851200" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Queerabic
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1c/d9/70/1cd970fe-d1b6-cf7b-db48-0d1ced1958cf/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/540x540bb.jpg" alt="Queerabic - ميم: LGBT Stickers" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1572342622?label=Queerabic)
-
-<a href="https://apps.apple.com/us/app/queerabic-%D9%85%D9%8A%D9%85-lgbt-stickers/id1572342622?itscg=30200&itsct=apps_box_badge&mttnsubad=1572342622" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1623801600" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-
-_Remember, great things happen with collaboration and coffee! ☕️_
+<samp>
+  <p align="center">
+    <a href="https://pierrejanineh.com">pierrejanineh.com</a> ·
+    <a href="https://dev.to/pierrejanineh">Blog</a> ·
+    <a href="https://medium.com/programming-with-pierre">Medium</a>
+  </p>
+</samp>
