@@ -4,13 +4,13 @@
   "description": "Making pixels behave in Software.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PierreJanineh-com/.github"
+    "url": "git+https://github.com/PierreJanineh-com/.github.git"
   },
   "license": "MIT",
   "author": "Pierre Janineh <me@pierrejanineh.com>",
   "main": "index.js",
   "bin": {
-    "pierrejanineh": "./index.js"
+    "pierrejanineh": "index.js"
   },
   "files": [
     "index.js"
